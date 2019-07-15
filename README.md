@@ -5,7 +5,7 @@ A collaborative lecture that explores open source design for type students.
 
 ## RESOURCES
 
-GITHUB RESOURCES
+GITHUB
 - https://guides.github.com/
 
 TYPE-DESIGN SOFTWARE
