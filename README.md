@@ -1,6 +1,6 @@
 # TYPE & OPEN SOURCE LECTURE
 
-A collaborative lecture that explores open source design for type students.
+A lecture that explores open source design for type students.
 
 
 ## RESOURCES
