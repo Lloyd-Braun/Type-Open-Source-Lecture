@@ -13,11 +13,11 @@ GITHUB
 - https://guides.github.com/
 
 TYPE-DESIGN SOFTWARE
-- https://glyphsapp.com/
-- https://robofont.com/
-- https://www.fontlab.com/font-editor/fontlab-vi/
-- https://trufont.github.io/
-- https://birdfont.org/
+- [Glyphs](https://glyphsapp.com/)
+- [Robofont](https://robofont.com/)
+- [Fontlab](https://www.fontlab.com/font-editor/fontlab-vi/)
+- [Trufont](https://trufont.github.io/)
+- [Birdfont](https://birdfont.org/)
 - [FontForge](https://fontforge.github.io/en-US/)
 - [Runebender](https://github.com/linebender/runebender)
 
@@ -26,3 +26,7 @@ LECTURES
 
 TUTORIALS
 - TK
+
+OTHER
+- [Licenses](https://creativecommons.org/licenses/)
+- [The Legal Side of Open Source](https://opensource.guide/legal/)
