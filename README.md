@@ -30,3 +30,4 @@ TUTORIALS
 OTHER
 - [Licenses](https://creativecommons.org/licenses/)
 - [Open Source Guides](https://opensource.guide/)
+- [Jekyll](https://jekyllrb.com/) *Would we want to look into this?*
